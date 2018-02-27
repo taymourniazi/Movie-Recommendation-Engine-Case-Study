@@ -6,7 +6,7 @@ Objective --- Build a recommendation system design
 
 Dataset is freely available at www.grouplens.org
 
-Data collected between 1995 to jan 1996
+Data collected between 1995 to Jan 2016
 
 
 
