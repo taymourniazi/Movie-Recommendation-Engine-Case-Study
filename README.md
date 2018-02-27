@@ -4,7 +4,7 @@ Building a Movie Recommendation Engine for  movie ratings dataset
 
 Objective --- Build a recommendation system design
 
-dataset is freely available at www.grouplens.org
+Dataset is freely available at www.grouplens.org
 
 Data collected between 1995 to jan 1996
 
